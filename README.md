@@ -60,7 +60,7 @@ code --add-mcp '{"name":"ticker","type":"http","url":"https://api.findticker.com
 
 Your client registers itself (Dynamic Client Registration or a Client ID Metadata Document) and opens findticker.com, where you sign in and approve access. The token is Ticker's own, short-lived, and refreshes itself. Revoke it from your client or from your Ticker account settings.
 
-A free account connects with a tool-call allowance. Paid plans raise it and open more markets: [findticker.com/plans](https://findticker.com/plans).
+A free account connects with a tool-call allowance. Paid plans raise it and open more markets: [findticker.com/plans](https://findticker.com/plans?utm_source=github&utm_medium=readme).
 
 ## Tools
 
@@ -87,7 +87,7 @@ A free account connects with a tool-call allowance. Paid plans raise it and open
 | `list_destinations` | Your alert destinations, such as Slack and Discord |
 | `get_account` | Your plan, quotas and what is used |
 
-Parameters for every tool: [findticker.com/docs/tools](https://findticker.com/docs/tools).
+Parameters for every tool: [findticker.com/docs/tools](https://findticker.com/docs/tools?utm_source=github&utm_medium=readme).
 
 ## Five prompts brokers use
 
@@ -99,8 +99,8 @@ Parameters for every tool: [findticker.com/docs/tools](https://findticker.com/do
 
 ## Docs and support
 
-Setup guides and limits: [findticker.com/docs/mcp](https://findticker.com/docs/mcp). Questions or a security report: support@findticker.com.
+Setup guides and limits: [findticker.com/docs/mcp](https://findticker.com/docs/mcp?utm_source=github&utm_medium=readme). Questions or a security report: support@findticker.com.
 
 ## License
 
-This repository holds documentation only. Its text is under the MIT License (see `LICENSE`). The Ticker service and its data are covered by the [Ticker terms](https://findticker.com/terms).
+This repository holds documentation only. Its text is under the MIT License (see `LICENSE`). The Ticker service and its data are covered by the [Ticker terms](https://findticker.com/terms?utm_source=github&utm_medium=readme).
